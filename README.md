@@ -5,7 +5,7 @@
     </br>
     · ꜱʜᴇ/ʜᴇʀ · ᴘᴛ ·
     </br>
-    <img width="15%"src="https://cdn.discordapp.com/attachments/1065287385392365599/1103341518942642276/download20230503160911_2.png"/>
+    <img width="20%"src="https://cdn.discordapp.com/attachments/1065287385392365599/1103341518942642276/download20230503160911_2.png"/>
     </br>
     <i>love the coding. hate the bugs.</i>
   </a>
