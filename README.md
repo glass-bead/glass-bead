@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img height="100" width="350" src="https://skillicons.dev/icons?i=cs,js,py,ps,unity,bots,vscode,visualstudio&perline=4" />
+  </a>
+</p>
+<p align="center"> 
+  <a href = "mailto:carolina.mg.veloso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carolina-veloso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</p>
+
 <!--
 **glass-bead/glass-bead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
