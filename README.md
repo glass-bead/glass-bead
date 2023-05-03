@@ -1,16 +1,17 @@
 <!-- Glass Bead Profile -->
 <p align="center">
   <a href="[https://skillicons.dev](https://git.io/gradientbadge)">
-    <img width="25%" src="https://pr4a8ymkgj1z.runkit.sh" />
+    <img width="20%" src="https://pr4a8ymkgj1z.runkit.sh" />
     </br>
     · ꜱʜᴇ/ʜᴇʀ · ᴘᴛ ·
     </br>
-    <img width="20%"src="https://cdn.discordapp.com/attachments/1065287385392365599/1103341518942642276/download20230503160911_2.png"/>
+    <img width="15%"src="https://cdn.discordapp.com/attachments/1065287385392365599/1103341518942642276/download20230503160911_2.png"/>
     </br>
     <i>love the coding. hate the bugs.</i>
   </a>
 </p>
 
+----
 
 <!-- Technologies -->
 <p align="center">
