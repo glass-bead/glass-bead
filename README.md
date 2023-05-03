@@ -1,7 +1,7 @@
 <!-- Glass Bead Profile -->
 <p align="center">
   <a href="[https://skillicons.dev](https://git.io/gradientbadge)">
-    <img width="15%" src="https://pr4a8ymkgj1z.runkit.sh" />
+    <img width="25%" src="https://pr4a8ymkgj1z.runkit.sh" />
     </br>
     · ꜱʜᴇ/ʜᴇʀ · ᴘᴛ ·
     </br>
