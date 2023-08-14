@@ -22,6 +22,7 @@
 
 <!-- How to contact me -->
 <p align="center">
+  <a href='https://carolinaveloso.com/' target="_blank"><img alt='aboutdotme' src='https://img.shields.io/badge/portfolio-100000?style=for-the-badge&logo=aboutdotme&logoColor=white&labelColor=1B1A1A&color=1B1A1A'/></a>
   <a href = "mailto:carolina.mg.veloso@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolina-veloso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </p>
